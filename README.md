@@ -1,2 +1,2 @@
-# IA_practices
+# IA_machinelearning_NPL
 artificial intelligence exercises
